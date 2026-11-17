@@ -1,2 +1,0 @@
-# tarea-cv
-CV
